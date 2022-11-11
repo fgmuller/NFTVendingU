@@ -1,0 +1,33 @@
+{
+  "key": 4,
+  "updateAuthority": "HQ96guumXHpEDGXBKaAV5bpPiT7dXQTLiirqJnyRiE3a",
+  "mint": "2BfrV5AkqrbSR2MJJMx4PuuAtSCzh9DNuDA1SYLk4sir",
+  "data": {
+    "name": "mamarachos #8",
+    "symbol": "MRACHOS",
+    "uri": "https://arweave.net/-w1VVViAOe1qUlRmoefh1euhkDgeLt9P7R8lL1hhNUE",
+    "sellerFeeBasisPoints": 5000,
+    "creators": [
+      {
+        "address": "BKoPFr3HcTWpLmtwwsNGpYcV7oSXf8JSF9TSrGuDFBFq",
+        "verified": 1,
+        "share": 0
+      },
+      {
+        "address": "HQ96guumXHpEDGXBKaAV5bpPiT7dXQTLiirqJnyRiE3a",
+        "verified": 0,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 1,
+  "isMutable": 1,
+  "editionNonce": 255,
+  "tokenStandard": 0,
+  "type": "metaplex",
+  "edition": {
+    "type": "MasterEdition",
+    "maxSupply": "0",
+    "supply": "0"
+  }
+}
